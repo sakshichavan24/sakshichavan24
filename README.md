@@ -1,5 +1,5 @@
 
-[![MaterHead](https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/content/cover_image_file/cover_image/1297297/1005_Design-Patterns-in-React_Cover-50911a22c4656a1f2a381b6c9ca38d57.png)]
+![MaterHead](https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/content/cover_image_file/cover_image/1297297/1005_Design-Patterns-in-React_Cover-50911a22c4656a1f2a381b6c9ca38d57.png)
 
 <h1 align="center">Hi 👋, I'm Sakshi Chavan</h1>
 <h3 align="center">A passionate Software developer from India</h3>
